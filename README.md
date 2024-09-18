@@ -1,12 +1,7 @@
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderlupus&hide_progress=true&theme=tokyonight) 
-
-
-<div 
- style="display: inline block"><br>
-<img align="center” height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center” height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />        
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Good to see you here!</h1></summary>
 </div>
 
 <div>
@@ -15,14 +10,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
-
-------------------------------------------------------
-
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Good to see you here!</h1></summary>
 </div>
 
 <!-- Presentation -->
