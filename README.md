@@ -25,7 +25,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I was born in 2006, currently living in Brazil. I have a great level of english, ....
+  - 💬 I was born in 2006, currently living in Brazil. I have a great level of english, I started this journey the moment i decided to study at UFRN, I'm loving this journey, the new friends I'm making, amazing teachers and also, great opportunities.
 
   - ⚡ I enjoy reading, I'm spiritist, I LOVE sports so much, specially volleyball and football 😂! I like to say this because I believe that our personal interests contribute to a more refined perception of things and problem-solving. 
 </details>
