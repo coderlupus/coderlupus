@@ -40,7 +40,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [PyCustomer](https://github.com/coderlupus/......)
+- [PyCustomer](https://replit.com/@nathanlopes089/BSI-PyCustomer-Projeto)
 
 
 <!-- GIF -->
